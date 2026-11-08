@@ -31,24 +31,70 @@ python calibration_sum.py
 | 9 | [Mirage Maintenance](https://adventofcode.com/2023/day/9) | [mirage_maintenance.py](2023/day09/mirage_maintenance.py) |
 | 12 | [Hot Springs](https://adventofcode.com/2023/day/12) | [hot_springs.py](2023/day12/hot_springs.py) |
 
+### [2024](https://adventofcode.com/2024)
+
+| Day | Puzzle | Solution |
+| --- | --- | --- |
+| 1 | [Historian Hysteria](https://adventofcode.com/2024/day/1) | |
+| 2 | [Red-Nosed Reports](https://adventofcode.com/2024/day/2) | |
+| 3 | [Mull It Over](https://adventofcode.com/2024/day/3) | |
+| 4 | [Ceres Search](https://adventofcode.com/2024/day/4) | |
+| 5 | [Print Queue](https://adventofcode.com/2024/day/5) | |
+| 6 | [Guard Gallivant](https://adventofcode.com/2024/day/6) | |
+| 7 | [Bridge Repair](https://adventofcode.com/2024/day/7) | |
+| 8 | [Resonant Collinearity](https://adventofcode.com/2024/day/8) | |
+| 9 | [Disk Fragmenter](https://adventofcode.com/2024/day/9) | |
+| 10 | [Hoof It](https://adventofcode.com/2024/day/10) | |
+| 11 | [Plutonian Pebbles](https://adventofcode.com/2024/day/11) | |
+| 12 | [Garden Groups](https://adventofcode.com/2024/day/12) | |
+| 13 | [Claw Contraption](https://adventofcode.com/2024/day/13) | |
+| 14 | [Restroom Redoubt](https://adventofcode.com/2024/day/14) | |
+| 15 | [Warehouse Woes](https://adventofcode.com/2024/day/15) | |
+| 16 | [Reindeer Maze](https://adventofcode.com/2024/day/16) | |
+| 17 | [Chronospatial Computer](https://adventofcode.com/2024/day/17) | |
+| 18 | [RAM Run](https://adventofcode.com/2024/day/18) | |
+| 19 | [Linen Layout](https://adventofcode.com/2024/day/19) | |
+| 20 | [Race Condition](https://adventofcode.com/2024/day/20) | |
+| 21 | [Keypad Conundrum](https://adventofcode.com/2024/day/21) | |
+| 22 | [Monkey Market](https://adventofcode.com/2024/day/22) | |
+| 23 | [LAN Party](https://adventofcode.com/2024/day/23) | |
+| 24 | [Crossed Wires](https://adventofcode.com/2024/day/24) | |
+| 25 | [Code Chronicle](https://adventofcode.com/2024/day/25) | |
+
 ### [2025](https://adventofcode.com/2025)
 
 2025 has 12 puzzles instead of the usual 25.
 
 | Day | Puzzle | Solution |
 | --- | --- | --- |
-| 1 | [Day 1](https://adventofcode.com/2025/day/1) | [day01](2025/day01) — not started |
-| 2 | [Day 2](https://adventofcode.com/2025/day/2) | [day02](2025/day02) — not started |
-| 3 | [Day 3](https://adventofcode.com/2025/day/3) | [day03](2025/day03) — not started |
-| 4 | [Day 4](https://adventofcode.com/2025/day/4) | [day04](2025/day04) — not started |
-| 5 | [Day 5](https://adventofcode.com/2025/day/5) | [day05](2025/day05) — not started |
-| 6 | [Day 6](https://adventofcode.com/2025/day/6) | [day06](2025/day06) — not started |
-| 7 | [Day 7](https://adventofcode.com/2025/day/7) | [day07](2025/day07) — not started |
-| 8 | [Day 8](https://adventofcode.com/2025/day/8) | [day08](2025/day08) — not started |
-| 9 | [Day 9](https://adventofcode.com/2025/day/9) | [day09](2025/day09) — not started |
-| 10 | [Day 10](https://adventofcode.com/2025/day/10) | [day10](2025/day10) — not started |
-| 11 | [Day 11](https://adventofcode.com/2025/day/11) | [day11](2025/day11) — not started |
-| 12 | [Day 12](https://adventofcode.com/2025/day/12) | [day12](2025/day12) — not started |
+| 1 | [Secret Entrance](https://adventofcode.com/2025/day/1) | |
+| 2 | [Gift Shop](https://adventofcode.com/2025/day/2) | |
+| 3 | [Lobby](https://adventofcode.com/2025/day/3) | |
+| 4 | [Printing Department](https://adventofcode.com/2025/day/4) | |
+| 5 | [Cafeteria](https://adventofcode.com/2025/day/5) | |
+| 6 | [Trash Compactor](https://adventofcode.com/2025/day/6) | |
+| 7 | [Laboratories](https://adventofcode.com/2025/day/7) | |
+| 8 | [Playground](https://adventofcode.com/2025/day/8) | |
+| 9 | [Movie Theater](https://adventofcode.com/2025/day/9) | |
+| 10 | [Factory](https://adventofcode.com/2025/day/10) | |
+| 11 | [Reactor](https://adventofcode.com/2025/day/11) | |
+| 12 | [Christmas Tree Farm](https://adventofcode.com/2025/day/12) | |
 
-### 2024, 2026
-Coming soon.
+### [2026](https://adventofcode.com/2026)
+
+Puzzles unlock daily starting December 1, 2026; titles will be added as they're released.
+
+| Day | Puzzle | Solution |
+| --- | --- | --- |
+| 1 | [Day 1](https://adventofcode.com/2026/day/1) | |
+| 2 | [Day 2](https://adventofcode.com/2026/day/2) | |
+| 3 | [Day 3](https://adventofcode.com/2026/day/3) | |
+| 4 | [Day 4](https://adventofcode.com/2026/day/4) | |
+| 5 | [Day 5](https://adventofcode.com/2026/day/5) | |
+| 6 | [Day 6](https://adventofcode.com/2026/day/6) | |
+| 7 | [Day 7](https://adventofcode.com/2026/day/7) | |
+| 8 | [Day 8](https://adventofcode.com/2026/day/8) | |
+| 9 | [Day 9](https://adventofcode.com/2026/day/9) | |
+| 10 | [Day 10](https://adventofcode.com/2026/day/10) | |
+| 11 | [Day 11](https://adventofcode.com/2026/day/11) | |
+| 12 | [Day 12](https://adventofcode.com/2026/day/12) | |
