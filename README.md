@@ -16,6 +16,10 @@ cd 2023/day01
 python calibration_sum.py
 ```
 
+### Starting a new day
+
+Copy [template.py](template.py) into the day's folder and fill in `part1` / `part2`. It reads `input.txt` next to the script (or a file you pass, e.g. `python solution.py sample.txt`) and includes helpers for common input shapes: lines, blank-line-separated blocks, integers, and character grids with neighbor lookups.
+
 ## Years
 
 ### [2023](https://adventofcode.com/2023)
