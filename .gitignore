@@ -1,0 +1,3 @@
+# Advent of Code asks that puzzle inputs and puzzle text not be shared
+input*.txt
+sample*.txt
