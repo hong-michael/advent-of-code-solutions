@@ -20,6 +20,8 @@ python calibration_sum.py
 
 Copy [template.py](template.py) into the day's folder and fill in `part1` / `part2`. It reads `input.txt` next to the script (or a file you pass, e.g. `python solution.py sample.txt`) and includes helpers for common input shapes: lines, blank-line-separated blocks, integers, and character grids with neighbor lookups.
 
+Prefer writing your own helpers? [template_minimal.py](template_minimal.py) has only the input reader plus `lines` and `ints`, so you can add helpers as you need them.
+
 ## Years
 
 ### [2023](https://adventofcode.com/2023)
