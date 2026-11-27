@@ -22,6 +22,8 @@ Copy [template.py](template.py) into the day's folder and fill in `part1` / `par
 
 Prefer writing your own helpers? [template_minimal.py](template_minimal.py) has only the input reader plus `lines` and `ints`, so you can add helpers as you need them.
 
+Both templates can check your code against the puzzle's example first: save the example input as `sample.txt` next to the script and put the expected answers in `EXAMPLES` (e.g. `"sample.txt": (3, 14)`). Running `python solution.py` then prints PASS/FAIL for each example before solving `input.txt`. Sample and input files are git-ignored.
+
 ## Years
 
 ### [2023](https://adventofcode.com/2023)
